@@ -1,0 +1,22 @@
+{
+    "lmgtfy_string": {
+      "message": "lmgtfy",
+      "description": "lmgtfy"
+    },
+    "clipboard_string": {
+      "message": "Copy to clipboard",
+      "description": "lmgtfy"
+    },
+    "twitter_string": {
+      "message": "Twitter",
+      "description": "lmgtfy"
+    },
+    "facebook_string": {
+      "message": "Facebook",
+      "description": "lmgtfy"
+    },
+    "googleplus_string": {
+      "message": "Google",
+      "description": "lmgtfy"
+    }
+}
